@@ -1,0 +1,5 @@
+C:\Users\v-bishen\Documents\FaceTest\FaceTest\bin\Debug\FaceTest.dll
+C:\Users\v-bishen\Documents\FaceTest\FaceTest\bin\Debug\FaceTest.pdb
+C:\Users\v-bishen\Documents\FaceTest\FaceTest\obj\Debug\FaceTest.csprojResolveAssemblyReference.cache
+C:\Users\v-bishen\Documents\FaceTest\FaceTest\obj\Debug\FaceTest.dll
+C:\Users\v-bishen\Documents\FaceTest\FaceTest\obj\Debug\FaceTest.pdb
