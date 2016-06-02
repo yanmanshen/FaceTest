@@ -15,5 +15,10 @@ namespace FaceTest
         public void TestMethod2()
         {
         }
+
+        [TestMethod]
+        public void TestMethod3()
+        {
+        }
     }
 }
